@@ -17,8 +17,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/HamedMusleh/HamedMusleh/main/asm.png" width="40" title="Assembly"/>
-  <img src="https://raw.githubusercontent.com/HamedMusleh/HamedMusleh/main/verilog.png" width="40" title="Verilog"/>
+  <img src="https://raw.githubusercontent.com/HamedMusleh/HamedMusleh/main/Assembly.png" width="40" title="Assembly"/>
+  <img src="https://raw.githubusercontent.com/HamedMusleh/HamedMusleh/main/Verilog.jpg" width="40" title="Verilog"/>
 </p>
 
 ---
