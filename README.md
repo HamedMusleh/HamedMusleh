@@ -1,6 +1,6 @@
-# Hamed Musleh
+# 👋 Hi, I'm Hamed Musleh  
 
-`Computer Engineer`
+`Computer Engineer | Embedded Systems Enthusiast | Hardware & Software Explorer`
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1C3ZycWVQM/?mibextid=wwXIfr)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HamedMusleh)
@@ -8,15 +8,14 @@
 
 ---
 
-## 🛠️ Languages and Tools:
-
+## 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="Assembly.jpg" width="40" title="Assembly"/>
   <img src="Verilog.png" width="40" title="Verilog"/>
 </p>
@@ -24,19 +23,32 @@
 ---
 
 ## 📈 GitHub Stats
-
-![Hamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamedMusleh&show_icons=true&theme=tokyonight)
-
-- 🔄 **Total Contributions (Last Year)**: 34  
-- 📁 **Most Used Languages** (approximate):
+![Hamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamedMusleh&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamedMusleh&layout=compact&theme=tokyonight)
 
 ---
 
-## 📊 Most Used Languages
+## 🚀 About Me
+- 🔭 Currently exploring **embedded systems & robotics**.  
+- ⚡ Passionate about **C, Python, and hardware description languages (Verilog, Assembly)**.  
+- 🎯 Interested in combining **hardware + software** to build smart and efficient systems.  
+- 🌱 Always learning, experimenting, and improving.  
 
+---
+
+## 📂 Projects & Teams
+
+| Project | Description |
+|---------|-------------|
+| [Lannister WRO Future Engineers 2025](https://github.com/lannister-team/Lannister-WRO-Future-Engineers-2025) | Team project: design, build & program an autonomous competition vehicle |
+
+---
+
+## 📊 Languages (rough usage levels)
 ```text
-C              ████████████████████████████████ 80
-Verilog        ██████████████████████████       65
-Python         ██████████████████████            60
-Java           ███████████████                   40
-HTML/CSS/JS    ███████████████                   40
+C              ████████████████████████████████ 80%
+Verilog        ██████████████████████████       65%
+Python         ██████████████████████            60%
+Java           ███████████████                   40%
+HTML/CSS/JS    ███████████████                   40%
+Assembly       ████████                          20%
