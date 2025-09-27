@@ -40,7 +40,15 @@
 
 | Project | Description |
 |---------|-------------|
-| [Lannister WRO Future Engineers 2025](https://github.com/lannister-team/Lannister-WRO-Future-Engineers-2025) | Team project: design, build & program an autonomous competition vehicle |
+| [Lannister WRO Future Engineers 2025](https://github.com/lannister-team/Lannister-WRO-Future-Engineers-2025) | Autonomous car project |
+| [DT-NB-FFNN-Comparison](https://github.com/HamedMusleh/DT-NB-FFNN-Comparison) | ML models comparison |
+| [Redo-Undo-using-Stack](https://github.com/HamedMusleh/Redo-Undo-using-Stack) | Redo/undo with stack |
+| [City-and-town-system](https://github.com/HamedMusleh/City-and-town-system) | City/town system |
+| [Graph-Topological-Sorting](https://github.com/HamedMusleh/Graph-Topological-Sorting) | Graph sorting |
+| [Hash-Trees-AVL-](https://github.com/HamedMusleh/Hash-Trees-AVL-) | Hash/Trees/AVL |
+| [Optimization-Strategies-for-Local-Package-Delivery-Operations](https://github.com/HamedMusleh/Optimization-Strategies-for-Local-Package-Delivery-Operations) | Delivery optimization |
+| [Bank-system](https://github.com/HamedMusleh/Bank-system) | Bank system |
+| [Book-Library](https://github.com/HamedMusleh/Book-Library) | Library system |
 
 ---
 
