@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Hamed Musleh  
 
-`Computer Engineer | Embedded Systems Enthusiast | Hardware & Software Explorer`
+`Computer Engineer | Embedded Systems | AI | Hardware & Software Explorer`
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1C3ZycWVQM/?mibextid=wwXIfr)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HamedMusleh)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamed.musleh?igsh=MXVmem15bDhlZDVsMA%3D%3D&utm_source=qr)
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HamedMusleh)
+[![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamed.musleh?igsh=MXVmem15bDhlZDVsMA%3D%3D&utm_source=qr)
 
 ---
 
@@ -23,14 +23,14 @@
 ---
 
 ## 📈 GitHub Stats
-![Hamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamedMusleh&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamedMusleh&layout=compact&theme=tokyonight)
+![Hamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamedMusleh&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamedMusleh&layout=compact&theme=radical)
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently exploring **embedded systems & robotics**.  
-- ⚡ Passionate about **C, Python, and hardware description languages (Verilog, Assembly)**.  
+- 🔭 Currently working with **Embedded Systems & AI**.  
+- ⚡ Skilled in **C, Python, Verilog, and Assembly**.  
 - 🎯 Interested in combining **hardware + software** to build smart and efficient systems.  
 - 🌱 Always learning, experimenting, and improving.  
 
