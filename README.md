@@ -16,19 +16,19 @@ Computer Engineering specialist focusing on the intersection of artificial intel
 
 ## 🚀 Featured Projects
 
-### [Country Classification using NLP](https://github.com/HamedMusleh) *(Add your specific repo link here)*
+### [Country Classification using NLP](https://github.com/HamedMusleh) *(https://github.com/HamedMusleh/travel-destination-ml-project)*
 * **Tech Stack:** Python, DistilBERT, Random Forest, Scikit-learn
 * **Impact:** Engineered an NLP pipeline utilizing transformer-based embeddings to classify textual data, achieving **~87% accuracy**. 
 
-### [Pipelined MIPS Processor](https://github.com/HamedMusleh) *(Add your specific repo link here)*
+### [Pipelined MIPS Processor](https://github.com/HamedMusleh) *(https://github.com/HamedMusleh/Pipeline-processor)*
 * **Tech Stack:** Verilog
 * **Impact:** Architected and simulated a fully pipelined 32-bit MIPS processor. Implemented a robust hazard detection unit and data forwarding paths to resolve data dependencies and prevent pipeline stalls.
 
-### [Vehicle Routing Optimization](https://github.com/HamedMusleh) *(Add your specific repo link here)*
+### [Vehicle Routing Optimization](https://github.com/HamedMusleh) *(https://github.com/HamedMusleh/Optimization-Strategies-for-Local-Package-Delivery-Operations)*
 * **Tech Stack:** Python, Metaheuristic Algorithms, GUI Frameworks
 * **Impact:** Built an optimization engine leveraging Simulated Annealing and Genetic Algorithms to solve complex vehicle routing logistics, complete with a custom graphical interface for route visualization.
 
-### [Memory-Optimized Bin Packing](https://github.com/HamedMusleh) *(Add your specific repo link here)*
+### [Memory-Optimized Bin Packing](https://github.com/HamedMusleh) *(https://github.com/HamedMusleh/Bin-Packing-Problem-Solution-Using-MIPS-Assembly)*
 * **Tech Stack:** MIPS Assembly
 * **Impact:** Developed a highly efficient First-Fit bin packing algorithm operating at the hardware level. Integrated custom file I/O operations and advanced buffer management systems directly in Assembly.
 
