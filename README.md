@@ -1,63 +1,21 @@
-# 👋 Hi, I'm Hamed Musleh  
+# 💫 About Me:
+Hi, I'm Hamed 👋<br>Computer Engineering Student | AI & Systems Enthusiast
 
-`Computer Engineer | Embedded Systems | AI | Hardware & Software Explorer`
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1C3ZycWVQM/?mibextid=wwXIfr)
-[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HamedMusleh)
-[![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamed.musleh?igsh=MXVmem15bDhlZDVsMA%3D%3D&utm_source=qr)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hamed Musleh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamed.musleh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hamed Musleh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamedkahled12@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=HamedMusleh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=HamedMusleh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=HamedMusleh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="Assembly .jpg" width="40" title="Assembly"/>
-  <img src="Verilog.png" width="40" title="Verilog"/>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HamedMusleh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=HamedMusleh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📈 GitHub Stats
-![Hamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamedMusleh&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamedMusleh&layout=compact&theme=radical)
-
----
-
-## 🚀 About Me
-- 🔭 Currently working with **Embedded Systems & AI**.  
-- ⚡ Skilled in **C, Python, Verilog, and Assembly**.  
-- 🎯 Interested in combining **hardware + software** to build smart and efficient systems.  
-- 🌱 Always learning, experimenting, and improving.  
-
----
-
-## 📂 Projects & Teams
-
-| Project | Description |
-|---------|-------------|
-| [Lannister WRO Future Engineers 2025](https://github.com/lannister-team/Lannister-WRO-Future-Engineers-2025) | Team project: design, build & program an autonomous competition vehicle |
-| [DT-NB-FFNN-Comparison](https://github.com/HamedMusleh/DT-NB-FFNN-Comparison) | Comparative study of image classification using Decision Tree, Naive Bayes, and Feedforward Neural Networks |
-| [Redo-Undo-using-Stack](https://github.com/HamedMusleh/Redo-Undo-using-Stack) | Implementation of redo/undo operations using stack data structure |
-| [City-and-town-system](https://github.com/HamedMusleh/City-and-town-system) | Simulation of a simple city & town management system |
-| [Graph-Topological-Sorting](https://github.com/HamedMusleh/Graph-Topological-Sorting) | Algorithms for topological sorting on graphs |
-| [Hash-Trees-AVL-](https://github.com/HamedMusleh/Hash-Trees-AVL-) | Comparative work on Hashing, Trees, and AVL structures |
-| [Optimization-Strategies-for-Local-Package-Delivery-Operations](https://github.com/HamedMusleh/Optimization-Strategies-for-Local-Package-Delivery-Operations) | Optimization models for local delivery operations |
-| [Bank-system](https://github.com/HamedMusleh/Bank-system) | Basic bank management system with account operations |
-| [Book-Library](https://github.com/HamedMusleh/Book-Library) | Book library management project |
-
-
----
-
-## 📊 Languages (rough usage levels)
-```text
-C              ████████████████████████████████ 80%
-Verilog        ██████████████████████████       65%
-Python         ██████████████████████            60%
-Java           ███████████████                   40%
-HTML/CSS/JS    ███████████████                   40%
-Assembly       ████████                          20%
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
